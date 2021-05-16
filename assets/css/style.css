@@ -187,3 +187,14 @@ hr{
 
 
 }
+
+ /*event times*/
+
+#times{
+    background-image:url('../images/dublin-city (2).webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
