@@ -292,7 +292,7 @@ footer {
         padding: 0;
     }
 
-    #times > div{
+    #times>div {
         width: 100%;
         clear: both;
         height: 150px;
@@ -344,4 +344,15 @@ footer {
 
     }
 
+    #photos {
+        column-count: 3;
+
+    }
+
+}
+
+@media screen and (max-width:800px) {
+    #photos {
+        column-count: 2;
+    }
 }
